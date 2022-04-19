@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Project-UTS</string>
+    <string name="form_input" translatable="false">Form Input</string>
+    <string name="nama" translatable="false">Nama</string>
+    <string name="fakultas" translatable="false">Fakultas</string>
+    <string name="jurusan" translatable="false">Jurusan</string>
+    <string name="semester" translatable="false">Semester</string>
+    <string name="simpan" translatable="false">Simpan</string>
+</resources>
